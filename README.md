@@ -1,7 +1,8 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikrathinavel&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karthikrathinavel&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikrathinavel&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikrathinavel&theme=tokyonight" />
+</p>
 <!--
 **karthikrathinavel/karthikrathinavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
